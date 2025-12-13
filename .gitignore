@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Notebook backups and temporary files
+*_backup.ipynb
+*_partial.ipynb
+build_notebook.py
+create_full_notebook.py
