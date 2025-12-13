@@ -209,5 +209,10 @@ __marimo__/
 # Notebook backups and temporary files
 *_backup.ipynb
 *_partial.ipynb
+*_executed.ipynb
 build_notebook.py
 create_full_notebook.py
+
+# Generated outputs from notebook analysis
+outputs/
+figures/
